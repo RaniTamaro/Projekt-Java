@@ -1,4 +1,4 @@
-# Projekt-Java
+# Tetris Game
 <p>Simple tetris game for my university course.
 <br>This game is for two players. Players must connect to server before start the game.
 <br>Server is sending information about score to second player. When one of player end game, second player also end. Winner is the player that has higher score.
